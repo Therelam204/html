@@ -1,0 +1,151 @@
+hr{
+    height: 3.5px;
+    width: 6%;
+    background-color: black;
+    margin: 60px 0 0 513px;
+    border-radius: 10px;
+}
+ 
+ 
+h3{
+   font-family: "Ruda", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 950;
+   font-style:normal;
+   margin: 40px 0 0 456px;
+   letter-spacing: 0.21em;
+}
+ 
+h1{
+ 
+   font-family: "Ruda", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 750;
+   font-style: normal;
+   margin: -4px 0 0 435px;
+   letter-spacing: 0.14em;
+}
+ 
+h2{
+ 
+   font-family: "Ruda-bold", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 800;
+   font-style: normal;
+   margin: -4px 0 0 464px;
+   letter-spacing: 0.10em;
+}
+ 
+h4{
+ 
+   font-family: "Catamaran", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   margin: 15px 0 0 395px;
+   letter-spacing: 0.17em;
+}
+ 
+.contenedor1{
+   position: relative;
+}
+ 
+.pj1{
+   margin: 210px 0 0 25px;
+   width: 95%;
+   height: 30px;
+   background-color: #FFBD59;
+}
+ 
+.pj2{
+   margin: 25px 0 0 25px;
+   width: 95%;
+   height: 30px;
+   background-color: #FFBD59;
+}
+ 
+.pj3{
+   margin: 25px 0 0 25px;
+   width: 95%;
+   height: 30px;
+   background-color: #FFBD59;
+}
+ 
+.pj4{
+   margin: 25px 0 0 25px;
+   width: 95%;
+   height: 30px;
+   background-color: #FFBD59;
+}
+ 
+ 
+.contenedor2{
+   position: absolute;
+   margin: -245px;
+ 
+}
+ 
+ 
+.dama1{
+  margin: 0 0 0 495px;
+}
+ 
+ 
+.dama2{
+   margin: 0 0 0 5px;
+   
+}
+ 
+.dama3{
+  margin:0 0 0 5px;
+}
+ 
+.pn1{
+   font-family: "Catamaran", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   margin: 13px 0 0 530px;
+   letter-spacing: 0.15em;
+   word-spacing: 1.20em;
+}
+ 
+.pn2{
+   font-family: "Catamaran", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   margin: -30px 0 0 750px;
+   letter-spacing: 0.15em;
+   word-spacing: 1.20em;
+}
+ 
+.pn3{
+   font-family: "Catamaran", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   margin: -30px 0 0 950px ;
+   letter-spacing: 0.15em;
+   word-spacing: 1.20em;
+}
+ 
+h5{
+ 
+   font-family: "Catamaran-black", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 800;
+   font-style: normal;
+   letter-spacing: 0.20em;
+ 
+}
+ 
+h6{
+   
+   font-family: "Catamaran", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   margin: -60px 0 0 685px;
+   
+}

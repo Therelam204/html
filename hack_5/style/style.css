@@ -1,0 +1,349 @@
+.contenedor{
+    display: flex;  
+}
+ 
+.circulo{
+     
+    margin-top: 40px;
+    margin-left: 60px;
+    height: 35px;
+    width: 35px;
+    background-color: #7ED957;
+    border-radius: 50px;
+     
+}
+ 
+h1{
+     
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 38px;
+    margin-left: 30px;
+     
+}
+
+h4{
+
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 48%;
+    margin-top: 48px;
+    
+}
+
+.cartel1{
+    width: 101.2%;
+    height: 1350px;
+    margin: -355px 0 0 -5px;
+}
+
+.raya1{
+    
+    height: 48px;
+    width: 400px;
+    background-color: #00BF63;
+    position: relative;
+    margin: -818px;
+    margin-left: 11px;
+}
+ 
+ 
+ .raya2{
+    
+    height: 48px;
+    width: 660px;
+    background-color: #00BF63;
+    position: relative;
+    margin-top: 825px;
+    margin-left: 21px;     
+}
+
+.raya3{
+    height: 48px;
+    width: 660px;
+    background-color: #00BF63;
+    position: relative;
+    margin: 5px 0 0 21px;
+}
+
+
+.hp1{
+   font-family: "Arimo", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 600;
+   font-style: normal;
+   position: absolute;
+   margin: -152px 0 0 113px;
+   color: #fff;
+   font-size: 35px;
+   word-spacing: 0.20em;
+   letter-spacing: 0.10em;
+}
+
+.hp2{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    position: absolute;
+    margin: -96px 0 0 115px;
+    color: #fff;
+    font-size: 35px;
+    word-spacing: 0.20em;
+    letter-spacing: 0.10em;
+}
+
+.hp3{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    position: absolute;
+    margin: -43px 0 0 115px;
+    color: #fff;
+    font-size: 35px;
+    word-spacing: 0.20em;
+    letter-spacing: 0.10em;
+}
+
+.raya4{
+
+    height: 22px;
+    width: 625px;
+    background-color:black;
+    position: relative;
+    margin-top: 45px;
+    margin-left: 21px;
+}
+
+.raya5{
+    height: 22px;
+    width: 520px;
+    background-color:black;
+    position: relative;
+    margin-top: 5px;
+    margin-left: 25px;
+}
+
+
+.hp4{
+
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    position: absolute;
+    color: #fff;
+    margin-left: 85px;
+    margin-top: -47px;
+    letter-spacing: 0.10em;
+}
+
+.hp5{
+
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    position: absolute;
+    margin-top: 50px;
+    color: #fff;
+    letter-spacing: 0.10em;
+    margin-left: 85px;
+    margin-top: -21px;
+}
+
+.hp6{
+
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 240px;
+    margin-left: 100px;
+
+
+}
+
+.hp7{
+
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: -20px;
+    margin-left: 100px;
+    word-spacing: 0.25em;
+    letter-spacing: 0.10rem;
+}
+
+
+.contenedor2{
+    display: flex;
+    
+}
+
+.cartel2{
+    width: 195px;
+    height: 260px;
+    margin-left: 120px;
+}
+
+.cartel3{
+    width: 190px;
+    height: 240px;
+    margin-top: 10px;
+    margin-left: 90px;
+
+}
+
+.cartel4{
+    width: 210px;
+    height: 214px;
+    margin-left: -10px;
+    margin-top: 23px;
+    margin-left: 80px;
+}
+
+.logo1{
+    font-size: 32px;
+    margin-left: 120px;
+    margin-top: -20px;
+}
+ 
+.logo2{
+    font-size: 32px;
+    margin-left: 405px;
+    margin-top: -38px;
+}
+ 
+.logo3{
+    font-size: 32px;
+    margin-left: 690px;
+    margin-top: -38px;
+}
+
+.hp8{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: -32px;
+    margin-left: 162px;
+}
+
+.hp9{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: -42px;
+    margin-left: 452px;
+}
+
+.hp10{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: -39px;
+    margin-left: 738px;
+}
+
+.hp11{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    margin-left: 120px;
+}
+
+.hp12{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    margin-left: 120px;
+    margin-top: -22px;
+}
+
+.hp13{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    margin-left: 405px;
+    margin-top: -55px;
+}
+
+.hp14{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    margin-left: 405px;
+    margin-top: -25px;
+}
+
+.hp15{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    margin-left: 690px;
+    margin-top: -50px;
+}
+
+.hp16{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+    margin-left: 690px;
+    margin-top: -22px;
+}
+
+.raya6{
+    height: 55px;
+    width: 96%;
+    background-color:#00BF63;
+    margin-left: 20px;
+    
+}
+
+.hp17{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color:#fff;
+    position: absolute;
+    margin-top: -37px;
+    margin-left: 120px;
+}
+
+.hp18{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color:#fff;
+    position: absolute;
+    margin-top: -37px;
+    margin-left: 470px;
+}
+
+.hp19{
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color:#fff;
+    position: absolute;
+    margin-top: -37px;
+    margin-left: 760px;
+}

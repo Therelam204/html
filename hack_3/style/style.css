@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+  
+  
+.papa{
+    width: 100%;
+    height: 120px;
+    background-color:#93B5C9;
+     
+}
+  
+  
+.mama{
+    width: 100%;
+    height: 240px;
+    background-color:#AB2849;
+
+}
+
+.hijo{
+    margin: 20px 0 0 93px;
+    width: 82.65%;
+    height: 120px;
+    background-color: #AB2849;
+    
+}
+
+.hija{
+    width: 41%;
+    height: 120px;
+    background-color: #AB2849;
+    margin: 20px 0 0 93px;
+    display: inline-flex;
+}
+
+.hija2{
+    width: 41%;
+    height: 120px;
+    background-color: #AB2849;
+    margin: 20px 0 0 3px;
+    display: inline-flex;
+
+}
+
+.abuela{
+    margin: 20px 0 0 93px;
+    width: 82.65%;
+    height: 120px;
+    background-color: #AB2849;
+    
+}
+
+.abuelo{
+    width: 41%;
+    height: 120px;
+    background-color: #AB2849;
+    margin: 15px 0 0 93px;
+    display: inline-flex;
+}
+
+.abuelo2{
+    width: 41%;
+    height: 120px;
+    background-color: #AB2849;
+    margin: 15px 0 0 3px;
+    display: inline-flex;
+}
+
+.perro{
+    margin: 20px 0px 10px 0px;
+    width: 100%;
+    height: 100px;
+    background-color: #AB2849;
+}

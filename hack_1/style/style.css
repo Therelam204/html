@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+  
+  
+.papa{
+    width: 100%;
+    height: 120px;
+    background-color:#93B5C9;
+    position: relative;
+}
+  
+  
+.mama{
+    width: 100%;
+    height: 240px;
+    background-color:#AB2849;
+    position: relative;
+}
+  
+.hijo{
+    margin: 20px 0 0 150px;
+    width: 86.2%;
+    height: 120px;
+    background-color: #AB2849;
+    position: relative;
+}
+  
+  
+.hija{
+    margin: 20px 0 0 150px;
+    width: 86.2%;
+    height: 120px;
+    background-color: #AB2849;
+    position: relative;
+}
+  
+  
+.abuela{
+    margin: 20px 0 0 150px;
+    width: 86.2%;
+    height: 120px;
+    background-color: #AB2849;
+    position: relative;
+}
+  
+.abuelo{
+    margin: 20px 0 0 150px;
+    width: 86.2%;
+    height: 120px;
+    background-color: #AB2849;
+    position: relative;
+}
+  
+.primos{
+    margin: 20px 0 0 25px;
+    width: 95%;
+    height: 120px;
+    background-color: #AB2849;
+    position: relative;
+}
+  
